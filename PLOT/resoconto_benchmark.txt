@@ -1,0 +1,107 @@
+Processori: 1. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000365
+Processori: 2. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000298
+Processori: 3. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000236
+Processori: 4. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000204
+Processori: 5. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000194
+Processori: 6. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000186
+Processori: 7. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000335
+Processori: 8. Valori totali file: 10000. Sort: 0. TEMPO MEDIO: 0.000898
+
+Processori: 1. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.000161
+Processori: 2. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.000126
+Processori: 3. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.00011
+Processori: 4. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.000103
+Processori: 5. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.000126
+Processori: 6. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.000121
+Processori: 7. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.000525
+Processori: 8. Valori totali file: 10000. Sort: 1. TEMPO MEDIO: 0.001856
+
+Processori: 1. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.003564
+Processori: 2. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.002823
+Processori: 3. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.00209
+Processori: 4. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.001595
+Processori: 5. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.001277
+Processori: 6. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.001168
+Processori: 7. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.001595
+Processori: 8. Valori totali file: 100000. Sort: 0. TEMPO MEDIO: 0.002406
+
+Processori: 1. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.001486
+Processori: 2. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.001299
+Processori: 3. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.001076
+Processori: 4. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.000857
+Processori: 5. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.000489
+Processori: 6. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.000475
+Processori: 7. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.000817
+Processori: 8. Valori totali file: 100000. Sort: 1. TEMPO MEDIO: 0.003928
+
+Processori: 1. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.035986
+Processori: 2. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.026112
+Processori: 3. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.020344
+Processori: 4. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.016481
+Processori: 5. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.013136
+Processori: 6. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.011972
+Processori: 7. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.015744
+Processori: 8. Valori totali file: 1000000. Sort: 0. TEMPO MEDIO: 0.018214
+
+Processori: 1. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.009013
+Processori: 2. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.006663
+Processori: 3. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.006258
+Processori: 4. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.005914
+Processori: 5. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.004684
+Processori: 6. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.00441
+Processori: 7. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.008495
+Processori: 8. Valori totali file: 1000000. Sort: 1. TEMPO MEDIO: 0.013135
+
+Processori: 1. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.358161
+Processori: 2. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.254193
+Processori: 3. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.190988
+Processori: 4. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.151802
+Processori: 5. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.121768
+Processori: 6. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.108266
+Processori: 7. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.114953
+Processori: 8. Valori totali file: 10000000. Sort: 0. TEMPO MEDIO: 0.112982
+
+Processori: 1. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.138889
+Processori: 2. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.073733
+Processori: 3. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.059555
+Processori: 4. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.051007
+Processori: 5. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.043509
+Processori: 6. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.041047
+Processori: 7. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.058564
+Processori: 8. Valori totali file: 10000000. Sort: 1. TEMPO MEDIO: 0.070927
+
+Processori: 1. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 3.497114
+Processori: 2. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 2.513229
+Processori: 3. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 1.843699
+Processori: 4. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 1.478477
+Processori: 5. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 1.193963
+Processori: 6. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 1.043614
+Processori: 7. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 1.034724
+Processori: 8. Valori totali file: 100000000. Sort: 0. TEMPO MEDIO: 1.036359
+
+Processori: 1. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 1.288136
+Processori: 2. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.85433
+Processori: 3. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.599473
+Processori: 4. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.546694
+Processori: 5. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.464436
+Processori: 6. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.43694
+Processori: 7. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.482981
+Processori: 8. Valori totali file: 100000000. Sort: 1. TEMPO MEDIO: 0.519402
+
+Processori: 1. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 33.281954
+Processori: 2. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 24.164159
+Processori: 3. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 18.67837
+Processori: 4. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 15.12063
+Processori: 5. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 12.942816
+Processori: 6. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 11.499078
+Processori: 7. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 11.121658
+Processori: 8. Valori totali file: 1000000000. Sort: 0. TEMPO MEDIO: 10.945536
+
+Processori: 1. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 17.746692
+Processori: 2. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 8.734381
+Processori: 3. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 6.181075
+Processori: 4. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 5.899794
+Processori: 5. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 4.880016
+Processori: 6. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 4.621592
+Processori: 7. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 4.430671
+Processori: 8. Valori totali file: 1000000000. Sort: 1. TEMPO MEDIO: 4.28057
